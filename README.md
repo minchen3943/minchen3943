@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-- 📫 How to reach me:  [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)]((https://github.com/minchen3943))[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:minchen3943@gmail.com)
+- 📫 How to reach me:  ![Static Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https%3A%2F%2Fgithub.com%2Fminchen3943)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:minchen3943@gmail.com)
 - 🌱 I’m currently learning:  ![Typescript](https://img.shields.io/badge/Typescript-code?style=flat&logo=Typescript&logoColor=white&labelColor=blue&color=blue)
 - :computer:My language:  ![Python](https://img.shields.io/badge/Python-code?style=flat&logo=python&logoColor=white&labelColor=blue&color=blue)![Static Badge](https://img.shields.io/badge/Javascript-1?style=flat&logo=javascript&logoColor=white&labelColor=%23f7df1e&color=%23f7df1e)
 
