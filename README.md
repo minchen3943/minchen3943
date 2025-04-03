@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi, welcome 👋
 
 - 📫 How to reach me:  [![Static Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/minchen3943)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:minchen3943@gmail.com)[![Static Badge](https://img.shields.io/badge/twitter-1?style=flat&logo=x&color=black)](https://x.com/minchen3943)
